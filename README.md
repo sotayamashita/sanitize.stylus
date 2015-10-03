@@ -26,7 +26,7 @@ $ npm install --save-dev sanitize.stylus
 Import files in your project using `@import` without the extension below:
 
 ```css
-@import "/path/to/_sanitize"
+@import "/path/to/sanitize"
 ```
 
 **CSS**
