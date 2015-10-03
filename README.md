@@ -3,13 +3,14 @@
 > :nut_and_bolt: [Stylus][stylus] version of [sanitize.css][sanitize]
 
 [![npm][npm-badge]][npm-link]
+[![bower][bower-badge]][bower-link]
 
 ## Install
 
 **bower**
 
 ```bash
-$ bower install --save-dev sanitize-stylus
+$ bower install --save-dev sanitize.stylus
 ```
 
 **npm**
@@ -47,3 +48,5 @@ To the extent possible under law, [Sota Yamashita][me] has waived all copyright 
 [me]: https://github.com/sotayamashita
 [npm-link]: https://www.npmjs.org/package/sanitize.stylus
 [npm-badge]: https://img.shields.io/npm/v/sanitize.stylus.svg?style=flat-square
+[bower-link]:  http://bower.io/search/?q=sanitize.stylus
+[bower-badge]: https://img.shields.io/bower/v/sanitize.stylus.svg?style=flat-square
