@@ -1,0 +1,24 @@
+{
+  "name": "sanitize-stylus",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sotayamashita/sanitize.stylus",
+  "authors": [
+    "Jonathan Neal",
+    "Sota Yamashita"
+  ],
+  "description": "Stylus version of sanitize.css",
+  "keywords": [
+    "css",
+    "sanitize",
+    "normalize",
+    "stylus"
+  ],
+  "license": "public domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
