@@ -2,6 +2,8 @@
 
 > :nut_and_bolt: Stylus version of sanitize.css
 
+[![npm][npm-badge]][npm-link]
+
 ## Install
 
 **bower**
@@ -36,10 +38,12 @@ If you have any question or suggestion, please feel free to create issues or pul
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sota Yamashita][me] has waived all copyright and related or neighboring rights to this work. Sanitize.css is dedicated to the [public domain][license] and stylus port by [Sota Yamashita][me]
+To the extent possible under law, [Sota Yamashita][me] has waived all copyright and related or neighboring rights to this work. Sanitize.css is dedicated to the [public domain][license] and Stylus port by Sota Yamashita
 
 
-[stylus]:   http://learnboost.github.io/stylus/
+[stylus]: http://learnboost.github.io/stylus/
 [sanitize]: https://github.com/jonathantneal/sanitize.css
-[license]:  https://github.com/jonathantneal/sanitize.css/blob/master/LICENSE.md
-[me]:       https://github.com/sotayamashita
+[license]: https://github.com/jonathantneal/sanitize.css/blob/master/LICENSE.md
+[me]: https://github.com/sotayamashita
+[npm-link]: https://www.npmjs.org/package/sanitize.stylus
+[npm-badge]: https://img.shields.io/npm/v/sanitize.stylus.svg?style=flat-square
