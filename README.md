@@ -37,6 +37,12 @@ Specify relationships between the current document with [`dist/sanitize.css`][cs
 <link rel="stylesheet" href="dist/sanitize.css" type="text/css">
 ```
 
+## Dcoumentation :jp:
+
+> Note: It is written in Japanese
+
+I am not familier with CSS and I do not want to use things which I do not know how it works so I take notes why they define the rules as reset style on [Wiki](https://github.com/sotayamashita/sanitize.stylus/wiki).
+
 ## Contributing
 
 If you have any question or suggestion, please feel free to create issues or pull request. When you create issues or pull request, please read [Contributing](CONTRIBUTING.md) before.
