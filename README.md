@@ -1,6 +1,6 @@
 # Sanitize.stylus
 
-> :nut_and_bolt: Stylus version of sanitize.css
+> :nut_and_bolt: [Stylus][stylus] version of [sanitize.css][sanitize]
 
 [![npm][npm-badge]][npm-link]
 
