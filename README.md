@@ -31,8 +31,11 @@ Import files in your project using `@import` without the extension below:
 
 **CSS**
 
-Use [`dist/sanitize.css`][css] from original [sanitize.css][sanitize].
+Specify relationships between the current document with [`dist/sanitize.css`][css] from original [sanitize.css][sanitize].
 
+```html
+<link rel="stylesheet" href="dist/sanitize.css" type="text/css">
+```
 
 ## Contributing
 
