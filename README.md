@@ -29,6 +29,10 @@ Import files in your project using `@import` without the extension below:
 @import "/path/to/_sanitize"
 ```
 
+**CSS**
+
+Use [`dist/sanitize.css`][css] from original [sanitize.css][sanitize].
+
 
 ## Contributing
 
@@ -44,6 +48,7 @@ To the extent possible under law, [Sota Yamashita][me] has waived all copyright 
 
 [stylus]: http://learnboost.github.io/stylus/
 [sanitize]: https://github.com/jonathantneal/sanitize.css
+[css]: https://github.com/jonathantneal/sanitize.css/blob/master/dist/sanitize.css
 [license]: https://github.com/jonathantneal/sanitize.css/blob/master/LICENSE.md
 [me]: https://github.com/sotayamashita
 [npm-link]: https://www.npmjs.org/package/sanitize.stylus
